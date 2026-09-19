@@ -1,40 +1,40 @@
-{"file_id": "FA-9572_electricidad.pdf", "result": "PAGAR", "trace_id": "fixture-001"}
-{"file_id": "FA-6217_transportes.pdf", "result": "PAGAR", "trace_id": "fixture-002"}
-{"file_id": "2026-08-07_P001.pdf", "result": "PAGAR", "trace_id": "fixture-003"}
-{"file_id": "factura_8562.pdf", "result": "PAGAR", "trace_id": "fixture-004"}
-{"file_id": "FA-7869_informática.pdf", "result": "INVALIDA", "trace_id": "fixture-005"}
-{"file_id": "factura_6990.pdf", "result": "PAGAR", "trace_id": "fixture-006"}
-{"file_id": "factura_8876.pdf", "result": "PAGAR", "trace_id": "fixture-007"}
-{"file_id": "FA-1591_informática.pdf", "result": "PAGAR", "trace_id": "fixture-008"}
-{"file_id": "factura_9865.pdf", "result": "PAGAR", "trace_id": "fixture-009"}
-{"file_id": "2026-08-10_P009.pdf", "result": "INVALIDA", "trace_id": "fixture-010"}
-{"file_id": "factura_7495.pdf", "result": "PAGAR", "trace_id": "fixture-011"}
-{"file_id": "factura_7637.pdf", "result": "PAGAR", "trace_id": "fixture-012"}
-{"file_id": "2026-98149_suministros.pdf", "result": "PAGAR", "trace_id": "fixture-013"}
-{"file_id": "factura_1210.pdf", "result": "PAGAR", "trace_id": "fixture-014"}
-{"file_id": "FA-9123_transportes.pdf", "result": "INVALIDA", "trace_id": "fixture-015"}
-{"file_id": "2026-79309_construcciones.pdf", "result": "PAGAR", "trace_id": "fixture-016"}
-{"file_id": "F26-3559_ofimática.pdf", "result": "PAGAR", "trace_id": "fixture-017"}
-{"file_id": "factura_3728.pdf", "result": "PAGAR", "trace_id": "fixture-018"}
-{"file_id": "2026-08-26_P010.pdf", "result": "PAGAR", "trace_id": "fixture-019"}
-{"file_id": "FA-7357_papelería.pdf", "result": "INVALIDA", "trace_id": "fixture-020"}
-{"file_id": "factura_7713.pdf", "result": "PAGAR", "trace_id": "fixture-021"}
-{"file_id": "2026-08-27_P007.pdf", "result": "PAGAR", "trace_id": "fixture-022"}
-{"file_id": "factura_17994.pdf", "result": "PAGAR", "trace_id": "fixture-023"}
-{"file_id": "2026-08-10_P003.pdf", "result": "PAGAR", "trace_id": "fixture-024"}
-{"file_id": "2026-27450_suministros.pdf", "result": "INVALIDA", "trace_id": "fixture-025"}
-{"file_id": "factura_7036.pdf", "result": "PAGAR", "trace_id": "fixture-026"}
-{"file_id": "FA-9665_mensajería.pdf", "result": "PAGAR", "trace_id": "fixture-027"}
-{"file_id": "factura_9660.pdf", "result": "PAGAR", "trace_id": "fixture-028"}
-{"file_id": "2026-08-10_P011.pdf", "result": "PAGAR", "trace_id": "fixture-029"}
-{"file_id": "FA-5103_electricidad.pdf", "result": "INVALIDA", "trace_id": "fixture-030"}
-{"file_id": "2026-42111_construcciones.pdf", "result": "PAGAR", "trace_id": "fixture-031"}
-{"file_id": "factura_2923.pdf", "result": "PAGAR", "trace_id": "fixture-032"}
-{"file_id": "2026-72452_suministros.pdf", "result": "PAGAR", "trace_id": "fixture-033"}
-{"file_id": "2026-08-05_P005.pdf", "result": "PAGAR", "trace_id": "fixture-034"}
-{"file_id": "factura_1221.pdf", "result": "INVALIDA", "trace_id": "fixture-035"}
-{"file_id": "2026-08-09_P001.pdf", "result": "PAGAR", "trace_id": "fixture-036"}
-{"file_id": "2026-08-22_P010.pdf", "result": "NO_PAGAR", "trace_id": "fixture-037"}
-{"file_id": "factura_6932.pdf", "result": "NO_PAGAR", "trace_id": "fixture-038"}
-{"file_id": "FA-3955_electricidad.pdf", "result": "ESCALAR", "trace_id": "fixture-039"}
-{"file_id": "FA-7532_informática.pdf", "result": "INVALIDA", "trace_id": "fixture-040"}
+{"file_id": "FA-9572_electricidad.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 1, "decision": "PAGAR"}}
+{"file_id": "FA-6217_transportes.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 2, "decision": "PAGAR"}}
+{"file_id": "2026-08-07_P001.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 3, "decision": "PAGAR"}}
+{"file_id": "factura_8562.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 4, "decision": "PAGAR"}}
+{"file_id": "factura_6990.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 5, "decision": "INVALIDA"}}
+{"file_id": "factura_8876.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 6, "decision": "PAGAR"}}
+{"file_id": "FA-1591_informática.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 7, "decision": "PAGAR"}}
+{"file_id": "factura_9865.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 8, "decision": "PAGAR"}}
+{"file_id": "2026-08-10_P009.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 9, "decision": "PAGAR"}}
+{"file_id": "factura_7495.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 10, "decision": "INVALIDA"}}
+{"file_id": "factura_7637.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 11, "decision": "PAGAR"}}
+{"file_id": "2026-98149_suministros.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 12, "decision": "PAGAR"}}
+{"file_id": "FA-9123_transportes.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 13, "decision": "PAGAR"}}
+{"file_id": "2026-79309_construcciones.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 14, "decision": "PAGAR"}}
+{"file_id": "factura_3728.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 15, "decision": "INVALIDA"}}
+{"file_id": "2026-08-26_P010.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 16, "decision": "PAGAR"}}
+{"file_id": "FA-7357_papelería.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 17, "decision": "PAGAR"}}
+{"file_id": "factura_7713.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 18, "decision": "PAGAR"}}
+{"file_id": "2026-08-27_P007.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 19, "decision": "PAGAR"}}
+{"file_id": "factura_17994.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 20, "decision": "INVALIDA"}}
+{"file_id": "2026-08-10_P003.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 21, "decision": "PAGAR"}}
+{"file_id": "2026-27450_suministros.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 22, "decision": "PAGAR"}}
+{"file_id": "FA-9665_mensajería.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 23, "decision": "PAGAR"}}
+{"file_id": "factura_9660.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 24, "decision": "PAGAR"}}
+{"file_id": "2026-08-10_P011.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 25, "decision": "INVALIDA"}}
+{"file_id": "FA-5103_electricidad.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 26, "decision": "PAGAR"}}
+{"file_id": "factura_2923.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 27, "decision": "PAGAR"}}
+{"file_id": "2026-72452_suministros.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 28, "decision": "PAGAR"}}
+{"file_id": "2026-08-05_P005.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 29, "decision": "PAGAR"}}
+{"file_id": "factura_1221.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 30, "decision": "INVALIDA"}}
+{"file_id": "2026-08-22_P010.pdf", "result": "NO_PAGAR", "trace": {"source": "public-test-fixture", "line": 31, "decision": "NO_PAGAR"}}
+{"file_id": "factura_6932.pdf", "result": "NO_PAGAR", "trace": {"source": "public-test-fixture", "line": 32, "decision": "NO_PAGAR"}}
+{"file_id": "FA-3955_electricidad.pdf", "result": "ESCALAR", "trace": {"source": "public-test-fixture", "line": 33, "decision": "ESCALAR"}}
+{"file_id": "FA-7532_informática.pdf", "result": "ESCALAR", "trace": {"source": "public-test-fixture", "line": 34, "decision": "ESCALAR"}}
+{"file_id": "F26-1902_suministros.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 35, "decision": "INVALIDA"}}
+{"file_id": "2026-05-11_P003.pdf", "result": "NO_PAGAR", "trace": {"source": "public-test-fixture", "line": 36, "decision": "NO_PAGAR"}}
+{"file_id": "scan_019.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 37, "decision": "PAGAR"}}
+{"file_id": "scan_020.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 38, "decision": "PAGAR"}}
+{"file_id": "scan_024.pdf", "result": "PAGAR", "trace": {"source": "public-test-fixture", "line": 39, "decision": "PAGAR"}}
+{"file_id": "2026-00987_seguridad.pdf", "result": "INVALIDA", "trace": {"source": "public-test-fixture", "line": 40, "decision": "INVALIDA"}}
